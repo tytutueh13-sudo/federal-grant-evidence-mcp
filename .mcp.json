@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "federal-grant-evidence": {
+      "type": "http",
+      "url": "https://utilityhouse.xyz/mcp/claude"
+    }
+  }
+}

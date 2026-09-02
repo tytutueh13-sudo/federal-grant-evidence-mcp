@@ -46,6 +46,8 @@ Add a custom web connector with the Claude endpoint. In Claude Code:
 claude mcp add --transport http federal-grant-evidence https://utilityhouse.xyz/mcp/claude
 ```
 
+The repository also includes a validated Claude plugin manifest, remote MCP configuration, and a narrowly scoped tool-routing skill for submission to the official Claude Plugin Directory.
+
 ### Gemini CLI
 
 ```sh
