@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "federal-grant-evidence",
+  "version": "1.1.0",
+  "description": "Find current U.S. federal grants and return cited hard-gate and award-history evidence packs.",
+  "author": {
+    "name": "UtilityHouse",
+    "url": "https://utilityhouse.xyz/about"
+  },
+  "homepage": "https://utilityhouse.xyz/developers",
+  "repository": "https://github.com/tytutueh13-sudo/federal-grant-evidence-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "federal-grants", "grants-gov", "evidence"]
+}

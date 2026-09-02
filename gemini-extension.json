@@ -1,0 +1,17 @@
+{
+  "name": "federal-grant-evidence-mcp",
+  "version": "1.1.0",
+  "description": "Find current U.S. federal grants and inspect cited hard-gate and award-history evidence.",
+  "mcpServers": {
+    "federal-grant-evidence": {
+      "httpUrl": "https://utilityhouse.xyz/mcp",
+      "timeout": 30000,
+      "includeTools": [
+        "search_federal_grants",
+        "analyze_federal_grant",
+        "get_federal_grant_evidence_pack"
+      ]
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
