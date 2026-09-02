@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "federal-grant-evidence": {
+      "type": "http",
+      "url": "https://utilityhouse.xyz/mcp/copilot",
+      "tools": [
+        "search_federal_grants",
+        "analyze_federal_grant",
+        "get_federal_grant_evidence_pack"
+      ]
+    }
+  }
+}
