@@ -4,7 +4,7 @@
   "description": "Find current U.S. federal grants and inspect cited hard-gate and award-history evidence.",
   "mcpServers": {
     "federal-grant-evidence": {
-      "httpUrl": "https://utilityhouse.xyz/mcp/gemini",
+      "httpUrl": "https://grants.utilityhouse.xyz/mcp/gemini",
       "timeout": 30000,
       "includeTools": [
         "search_federal_grants",

@@ -3,7 +3,7 @@
   "mcpServers": {
     "federal-grant-evidence": {
       "type": "streamable-http",
-      "url": "https://utilityhouse.xyz/mcp/registry"
+      "url": "https://grants.utilityhouse.xyz/mcp/registry"
     }
   }
 }

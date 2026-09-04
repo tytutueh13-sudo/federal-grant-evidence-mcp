@@ -5,9 +5,9 @@
   "description": "Find current U.S. federal grants and return cited hard-gate and award-history evidence packs.",
   "author": {
     "name": "UtilityHouse",
-    "url": "https://utilityhouse.xyz/about"
+    "url": "https://grants.utilityhouse.xyz/about"
   },
-  "homepage": "https://utilityhouse.xyz/developers",
+  "homepage": "https://grants.utilityhouse.xyz/developers",
   "repository": "https://github.com/tytutueh13-sudo/federal-grant-evidence-mcp",
   "license": "MIT",
   "keywords": ["mcp", "federal-grants", "grants-gov", "evidence"]
