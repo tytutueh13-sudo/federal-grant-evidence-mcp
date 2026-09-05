@@ -1,6 +1,6 @@
 {
   "name": "federal-grant-evidence-mcp",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Find current U.S. federal grants and inspect cited hard-gate and award-history evidence.",
   "mcpServers": {
     "federal-grant-evidence": {
